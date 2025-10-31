@@ -1,6 +1,6 @@
 # FUTURE_DS_01
 
-📊 FUTURE_DS_01 — Business Sales Dashboard (2011-2014)
+# 📊 FUTURE_DS_01 — Business Sales Dashboard (2011-2014)
 
 ## 🧠 Project Overview
 This project analyzes e-commerce sales data from **2011-2014** to identify best-selling products, profit trends, and high-revenue categories using **Power BI**.  
