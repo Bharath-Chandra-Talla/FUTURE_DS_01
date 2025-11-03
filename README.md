@@ -10,7 +10,7 @@ The dashboard provides actionable insights for improving business decisions.
 
 ## 🎯 Task Description (Given by Future Interns)
 
-- **Task** : Analyze e-commerce data to identify best-selling Products,Sales trends and high revenue categories using Power BI.
+- **Task** : Analyze e-commerce data to identify best-selling Products,Sales trends & high revenue categories using Power BI.
 
 - **Skills Gained** : Data Cleaning,DAX, Trend Analysis, Business Storytelling.
 
