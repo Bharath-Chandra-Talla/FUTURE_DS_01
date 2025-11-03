@@ -48,11 +48,16 @@ The dashboard provides actionable insights for improving business decisions.
 ## 🖥️ Project Workflow 
 
 1.**Data Cleaning** – Removed duplicates, fixed inconsistent formats, and standardized fields.
+
 2. **Data Modeling** – Established relationships between Orders and Details tables.
-3. **Measure Creation** – Built calculated columns and DAX measures for analysis.
-4. **Visualization Design** – Created KPIs, charts, map visuals, and slicers.
-5. **Dashboard Formatting** – Used gradient themes, alignment grids, and business-friendly titles.
-6. **Storytelling & Insights** – Highlighted actionable findings for strategic decisions.
+3. 
+4. **Measure Creation** – Built calculated columns and DAX measures for analysis.
+5. 
+6. **Visualization Design** – Created KPIs, charts, map visuals, and slicers.
+7. 
+8. **Dashboard Formatting** – Used gradient themes, alignment grids, and business-friendly titles.
+9. 
+10. **Storytelling & Insights** – Highlighted actionable findings for strategic decisions.
 
 ---
 
