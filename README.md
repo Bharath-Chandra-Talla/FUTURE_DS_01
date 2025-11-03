@@ -42,3 +42,24 @@ The dashboard provides actionable insights for improving business decisions.
 - Total Orders = DISTINCTCOUNT('Orders'[Order ID])
 - Profit Ratio = DIVIDE([Total Profit],[Total sales],0)
 - Return Rate = DIVIDE([Total Returned Orders],[Total Orders],0)
+
+  ---
+
+## 🖥️ Project Workflow 
+
+1.**Data Cleaning** – Removed duplicates, fixed inconsistent formats, and standardized fields.
+2. **Data Modeling** – Established relationships between Orders and Details tables.
+3. **Measure Creation** – Built calculated columns and DAX measures for analysis.
+4. **Visualization Design** – Created KPIs, charts, map visuals, and slicers.
+5. **Dashboard Formatting** – Used gradient themes, alignment grids, and business-friendly titles.
+6. **Storytelling & Insights** – Highlighted actionable findings for strategic decisions.
+
+---
+
+## 🧠 Learnings
+
+• Applying **data storytelling** to support business decisions.
+
+• Building **interactive dashboards** that combine analytics with design.
+
+• Enhancing **Power BI proficiency** with DAX, filters, and visualization best practices.
